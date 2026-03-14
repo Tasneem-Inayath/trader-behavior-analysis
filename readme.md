@@ -92,6 +92,7 @@ Cluster visualization revealed distinct trading behavior groups such as:
 
 This clustering approach helps understand different trader risk profiles.
 
+<img src="9e2d449e-a859-4cc2-948d-b204a14979a7.png" width="600">
 ---
 
 # Key Insights
