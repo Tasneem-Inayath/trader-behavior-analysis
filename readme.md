@@ -154,7 +154,7 @@ Large profit and loss variations highlight the importance of stop-loss strategie
 ```
 trader-behavior-analysis/
 │
-├── notebook.ipynb
+├── new.ipynb
 ├── README.md
 └── datasets/
 ```
