@@ -140,7 +140,7 @@ Large profit and loss variations highlight the importance of stop-loss strategie
 
 ---
 ### Fear and Greed Index Value
-<img src="50ffd0e4-8494-4e46-9929-4a396e3dff39.png" width="600">
+<img src="046cc866-578b-49e0-a3a5-0fb75b232848.png" width="600">
 
 # Technologies Used
 
