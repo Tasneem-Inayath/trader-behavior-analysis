@@ -139,7 +139,7 @@ Lower profitability during Fear sentiment suggests that traders should reduce po
 Large profit and loss variations highlight the importance of stop-loss strategies and disciplined position sizing in volatile crypto markets.
 
 ---
-### Fear and Greed Index Value
+### Fear and Greed Index Value on Closed PnL
 <img src="046cc866-578b-49e0-a3a5-0fb75b232848.png" width="600">
 
 # Technologies Used
