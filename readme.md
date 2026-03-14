@@ -105,6 +105,7 @@ The number of trades increases significantly during Greed sentiment periods, sug
 
 Average trading profits tend to be higher during Greed sentiment, indicating that bullish market conditions provide more profitable opportunities.
 
+<img src="50ffd0e4-8494-4e46-9929-4a396e3dff39.png" width="600">
 ### 3. Larger Trades Occur During Greed
 
 Average trade size increases during Greed periods, suggesting that traders take larger risks when market sentiment is positive.
@@ -138,6 +139,8 @@ Lower profitability during Fear sentiment suggests that traders should reduce po
 Large profit and loss variations highlight the importance of stop-loss strategies and disciplined position sizing in volatile crypto markets.
 
 ---
+### Fear and Greed Index Value
+<img src="50ffd0e4-8494-4e46-9929-4a396e3dff39.png" width="600">
 
 # Technologies Used
 
